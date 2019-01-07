@@ -10,3 +10,5 @@ git status
 
 git add readme.md
 git commit -m "Created readme"
+
+git diff
